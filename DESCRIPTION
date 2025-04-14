@@ -1,0 +1,16 @@
+Package: huttonimputationr
+Type: Package
+Title: Tools for imputation based on Hutton's method
+Version: 0.1.0
+Authors@R:c(
+    person(given = "Adam", family = "Hutton", role = c("aut", "cre"),
+           email = "ahperformancecoach@gmail.com"))
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    ggplot2
+RoxygenNote: 7.3.2
