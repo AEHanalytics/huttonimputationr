@@ -1,6 +1,6 @@
 Package: huttonimputationr
 Type: Package
-Title: Tools for imputation based on Hutton's method
+Title: Tools for imputation based on Hutton's method and add plots
 Version: 0.1.0
 Authors@R: c(
     person(given = "Adam", family = "Hutton", role = c("aut", "cre"),
